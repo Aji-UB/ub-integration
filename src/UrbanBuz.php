@@ -1,12 +1,12 @@
 <?php
 
-namespace UrbanBuz;
+namespace UrbanBuz\API;
 
 //use libphonenumber\PhoneNumberUtil;
 //use libphonenumber\PhoneNumberFormat;
 //use libphonenumber\NumberParseException;
 
-class Api {
+class UrbanBuz {
 
     private $_version = '3.1';
     private $_prefix = 'oauth_';
