@@ -1,0 +1,24 @@
+{
+    "name": "UrbanBuz/api3",
+    "type": "library",
+    "description": "UB integration helper",
+    "keywords": ["checkin","capture"],
+    "homepage": "https://github.com/Seldaek/monolog",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aji Raj",
+            "email": "aji@urbanbuz.com",
+            "homepage": "https://urbanbuz.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+             "UB\\": "src/",
+        }
+    }
+}
