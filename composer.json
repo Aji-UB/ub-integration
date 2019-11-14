@@ -1,5 +1,5 @@
 {
-    "name": "UrbanBuz/api3",
+    "name": "UrbanBuzV3/api",
     "type": "library",
     "description": "UB integration helper",
     "keywords": ["checkin","capture"],
