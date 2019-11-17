@@ -3,6 +3,7 @@
     "type": "library",
     "description": "UB integration helper",
     "keywords": ["checkin","capture"],
+	"version": "1.0.0",
     "homepage": "https://github.com/Aji-UB/ub-integration",
     "license": "MIT",
     "authors": [
