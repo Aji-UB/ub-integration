@@ -4,11 +4,13 @@
 
 Using composer:
 
+```
 composer require "urbanbuz-v3/api:dev-master"
-
+```
 
 ## Usage
 
+```
 require('vendor/autoload.php');
 
 use UrbanBuz\API\UrbanBuz;
